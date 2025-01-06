@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "194666510196",
+    "project_id": "ketcap-65ae6",
+    "storage_bucket": "ketcap-65ae6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194666510196:android:4711298e9cffec0e42de21",
+        "android_client_info": {
+          "package_name": "com.mobilefinal.ketcap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3IiYKBcOzKfw_KT9CddMx2H58YvI-E3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
